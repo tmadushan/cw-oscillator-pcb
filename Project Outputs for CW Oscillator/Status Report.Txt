@@ -1,0 +1,10 @@
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [PCB.PcbDoc]
+   Generated File[PCB.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 16:12:33 On 02/04/2023
